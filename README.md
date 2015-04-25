@@ -1,25 +1,23 @@
+#Field Trip AngularJS Application
+
 ##Developers
 Kyle Giard-Chase & Bojana Skarich
 
-##Date
-April 21 2015
+###April 21 2015
 
-
-
-##Description
+###Description
 This app creates, edits and deletes students on a student roster. One can also track which students have submitted permission slips for a field trip. This project utilizes Angular JS factories. 
 
-##Technologies Used
+###Technologies Used
 <a href='https://angularjs.org/'>Angular JS</a> <br>
 Javascript
 
-
-##Use and Editing
+###Use and Editing
 To use the app, clone the repository. In the top level of the project folder, click on index.html and open it in your web browser.<br><br>
 To edit the app, you will need Angular JS. This framework is already located in the lib folder. <br><br>
 
 
-##Copyright (c) 2015 Kyle Giard-Chase & Bojana Skarich
+###Copyright (c) 2015 Kyle Giard-Chase & Bojana Skarich
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
